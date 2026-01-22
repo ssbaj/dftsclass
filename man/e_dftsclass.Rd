@@ -1,0 +1,52 @@
+\name{hello}
+\alias{hello}
+\title{Hello, World!}
+\usage{
+hello()
+}
+\description{
+e_dftsclass
+}
+\examples{
+  BostonRobbery
+  Bush
+  capital
+  ch7ex3
+  ci
+  cicomp
+  cpi_m2
+  cpi1
+  cpi2X
+  eap
+  earthquake
+  ev10
+  ev16
+  ev2
+  EX_LC
+  exinf
+  gdp_sa
+  GDPdata
+  gfs
+  hansin
+  hydepark
+  ipi
+  ir
+  ir1
+  lead_sales
+  McDowall_dailycalls
+  McDowall_HydePark
+  McDowall_IBMStock
+  McDowall_p74
+  McDowall_p77
+  McDowall_p82
+  McDowall_SutterCounty
+  ngdp
+  pys_inter1
+  pys_inter2
+  rgdp
+  SutterCounty
+  SwedishHarvestIndex
+  ur
+  
+}
+                

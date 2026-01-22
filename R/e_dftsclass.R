@@ -1,0 +1,57 @@
+# Hello, world!
+#
+# This is an example function named 'hello' 
+# which prints 'Hello, world!'.
+#
+# You can learn more about package authoring with RStudio at:
+#
+#   https://r-pkgs.org
+#
+# Some useful keyboard shortcuts for package authoring:
+#
+#   Install Package:           'Ctrl + Shift + B'
+#   Check Package:             'Ctrl + Shift + E'
+#   Test Package:              'Ctrl + Shift + T'
+
+e_dftsclass <- function() {
+cat("  BostonRobbery ", "\n")
+cat("  Bush ", "\n")
+cat("  capital ", "\n")
+cat("  ch7ex3 ", "\n")
+cat("  ci ", "\n")
+cat("  cicomp ", "\n")
+cat("  cpi_m2 ", "\n")
+cat("  cpi1 ", "\n")
+cat("  cpi2X ", "\n")
+cat("  eap ", "\n")
+cat("  earthquake ", "\n")
+cat("  ev10 ", "\n")
+cat("  ev16 ", "\n")
+cat("  ev2 ", "\n")
+cat("  EX_LC ", "\n")
+cat("  exinf ", "\n")
+cat("  gdp_sa ", "\n")
+cat("  GDPdata ", "\n")
+cat("  gfs ", "\n")
+cat("  hansin ", "\n")
+cat("  hydepark ", "\n")
+cat("  ipi ", "\n")
+cat("  ir ", "\n")
+cat("  ir1 ", "\n")
+cat("  lead_sales ", "\n")
+cat("  McDowall_dailycalls ", "\n")
+cat("  McDowall_HydePark ", "\n")
+cat("  McDowall_IBMStock ", "\n")
+cat("  McDowall_p74 ", "\n")
+cat("  McDowall_p77 ", "\n")
+cat("  McDowall_p82 ", "\n")
+cat("  McDowall_SutterCounty ", "\n")
+cat("  ngdp ", "\n")
+cat("  pys_inter1 ", "\n")
+cat("  pys_inter2 ", "\n")
+cat("  rgdp ", "\n")
+cat("  SutterCounty ", "\n")
+cat("  SwedishHarvestIndex ", "\n")
+cat("  ur ", "\n")
+cat("   ", "\n")
+}
