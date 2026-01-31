@@ -1,8 +1,8 @@
-\name{hello}
-\alias{hello}
-\title{Hello, World!}
+\name{e_dftsclass}
+\alias{e_dftsclass}
+\title{dftsclass DATASET}
 \usage{
-hello()
+e_dftsclass()
 }
 \description{
 e_dftsclass
@@ -46,6 +46,7 @@ e_dftsclass
   rgdp
   SutterCounty
   SwedishHarvestIndex
+  T_data8_1
   ur
   
 }

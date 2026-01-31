@@ -1,18 +1,3 @@
-# Hello, world!
-#
-# This is an example function named 'hello' 
-# which prints 'Hello, world!'.
-#
-# You can learn more about package authoring with RStudio at:
-#
-#   https://r-pkgs.org
-#
-# Some useful keyboard shortcuts for package authoring:
-#
-#   Install Package:           'Ctrl + Shift + B'
-#   Check Package:             'Ctrl + Shift + E'
-#   Test Package:              'Ctrl + Shift + T'
-
 e_dftsclass <- function() {
 cat("  BostonRobbery ", "\n")
 cat("  Bush ", "\n")
@@ -52,6 +37,7 @@ cat("  pys_inter2 ", "\n")
 cat("  rgdp ", "\n")
 cat("  SutterCounty ", "\n")
 cat("  SwedishHarvestIndex ", "\n")
+cat("  T_data8_1 ", "\n")
 cat("  ur ", "\n")
 cat("   ", "\n")
 }
