@@ -43,6 +43,7 @@ e_dftsclass
   ngdp
   pys_inter1
   pys_inter2
+  pys_unemployment
   rgdp
   SutterCounty
   SwedishHarvestIndex
