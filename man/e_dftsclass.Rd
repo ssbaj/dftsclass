@@ -22,7 +22,7 @@ e_dftsclass
   ev10
   ev16
   ev2
-  EX_LC -> PYS's data -> ex / lc
+  EX_LC
   exinf
   gdp_sa
   GDPdata
