@@ -22,7 +22,7 @@ e_dftsclass
   ev10
   ev16
   ev2
-  EX_LC
+  EX_LC -> PYS's data -> ex / lc
   exinf
   gdp_sa
   GDPdata
@@ -32,6 +32,9 @@ e_dftsclass
   ipi
   ir
   ir1
+  JJH_Call_Kor
+  JJH_KospiDow
+  JJH_KospiYen
   lead_sales
   McDowall_dailycalls
   McDowall_HydePark
