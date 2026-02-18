@@ -44,6 +44,12 @@ e_dftsclass
   McDowall_p82
   McDowall_SutterCounty
   ngdp
+  phil_CausalExercise
+  phil_cornwell_rupert
+  phil_InflationRateLecture
+  phil_Philippine_SVAR
+  phil_SampleVAR
+  phil_VECM_LectureNotes
   pys_inter1
   pys_inter2
   pys_unemployment
